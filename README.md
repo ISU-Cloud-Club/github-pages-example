@@ -6,8 +6,8 @@ This repository is an example GitHub Pages website.
 ## Example navigation
 - [Home](./README.md)
 - Helpful topics
-  - [Basics of Git](helpful-tops/basics-of-git.md)
-  - [Markdown](helpful-tops/markdown.md)
+  - [Basics of Git](./helpful-topics/basics-of-git)
+  - [Markdown](./helpful-tops/markdown)
 
 
 ### What is GitHub pages?

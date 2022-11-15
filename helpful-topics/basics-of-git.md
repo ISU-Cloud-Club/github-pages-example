@@ -7,6 +7,6 @@ View the documentation for git [here](https://git-scm.com/doc).
 ## Example navigation
 - [Home](../README.md)
 - Helpful topics
-  - [Basics of Git](./basics-of-git.md)
-  - [Markdown](./markdown.md)
+  - [Basics of Git](./basics-of-git)
+  - [Markdown](./markdown)
 

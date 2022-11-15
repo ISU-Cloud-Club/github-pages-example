@@ -5,8 +5,8 @@
 ## Example navigation
 - [Home](../README.md)
 - Helpful topics
-  - [Basics of Git](./basics-of-git.md)
-  - [Markdown](./markdown.md)
+  - [Basics of Git](./basics-of-git)
+  - [Markdown](./markdown)
 ---
 
 # h1 Heading 8-)
