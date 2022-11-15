@@ -4,7 +4,7 @@
 
 ## Example navigation
 - [Home](../README.md)
-- Helpful topics
+- [Helpful Topics](./helpful-topics/)
   - [Basics of Git](./basics-of-git)
   - [Markdown](./markdown)
 ---
