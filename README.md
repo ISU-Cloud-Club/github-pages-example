@@ -7,7 +7,7 @@ This repository is an example GitHub Pages website.
 - [Home](./README.md)
 - Helpful topics
   - [Basics of Git](./helpful-topics/basics-of-git)
-  - [Markdown](./helpful-tops/markdown)
+  - [Markdown](./helpful-topics/markdown)
 
 
 ### What is GitHub pages?
@@ -20,4 +20,6 @@ View the official [GitHub pages documentation](https://docs.github.com/en/pages)
 ### Advanced configuration options
 - [Custom Domain](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site)
 - [Customizing the site's theme](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll)
+  - [Supported themes](https://pages.github.com/themes/)
+
 
