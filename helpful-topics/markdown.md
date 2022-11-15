@@ -1,12 +1,13 @@
-# This is an example of many of the basics of [Markdown](https://www.markdownguide.org)
+# This page demonstrates what can be done with markdown
 <small>The below content was taken from [markdown-it demo](https://markdown-it.github.io)</small>
 
 
 ## Example navigation
 - [Home](../README.md)
-- [Helpful Topics](./helpful-topics/)
+- [Helpful Topics](../helpful-topics/)
   - [Basics of Git](./basics-of-git)
   - [Markdown](./markdown)
+
 ---
 
 # h1 Heading 8-)
